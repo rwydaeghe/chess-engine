@@ -54,4 +54,5 @@ board.current_eval = board.eval
 white_player = 'PC'
 black_player = 'PC'
 
+
 board.start_game(white_player, black_player)
